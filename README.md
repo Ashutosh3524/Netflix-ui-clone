@@ -21,5 +21,5 @@ This is a UI clone of Netflix built for educational purposes only.
 
 ## 🔗 Live Demo
 
-[👉 Click here to view live site](https://your-deployment-url.com)
+[👉 Click here to view live site](https://netflix-ui-clone-ap2um6uk3-ashutoshs-projects-2081baff.vercel.app/)
  
