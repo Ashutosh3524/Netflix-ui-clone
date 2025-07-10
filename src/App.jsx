@@ -2,7 +2,7 @@ import Border from "./component/Border"
 import Cards from "./component/Cards"
 import Faq from "./component/Faq"
 import Footer from "./component/Footer"
-import Navbar from "./component/navbar"
+import Navbar from "./component/Navbar"
 import Sub from "./component/Sub"
 import Trends from "./component/Trends"
 
